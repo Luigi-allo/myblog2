@@ -124,7 +124,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .post-stub a:hover { background: #fcf5f5; color: #f03838; padding: 20px 12px; }
 .post-stub a:hover .post-stub-tag { background: #f03838; }
 .post-stub-tag { background: #303030; border-radius: 3px; color: #fff; float: right; font-size: 10px; margin: 7px 0 0; padding: 0 5px; text-transform: uppercase; }
-.post-stub-title { display: inline-block; margin: 0; text-transform: none; }
+.post-stub-title { display: inline-block; margin: 0; text-transform: none; font-family: 'Press Start 2P', cursive; font-size: 14px; font-weight: 400;}
 .post-stub-description { display: inline-block; margin: 0; text-transform: none; }
 .post-stub-date { display: inline-block; }
 .post-stub-date:before { content: "/ "; }
